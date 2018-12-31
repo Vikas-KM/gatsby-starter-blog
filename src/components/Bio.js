@@ -27,9 +27,9 @@ class Bio extends React.Component {
           }}
         />
         <p>
-          Written by <strong>Vikas KM</strong>coder and film phorograher who loves to shoot with his Canon AE-01 and Nikon FM2.{' '}
+          Written by <strong>Vikas KM</strong> -coder and film photographer who loves to shoot with his Canon AE-01 and Nikon FM2.{' '}
           <a href="https://twitter.com/Vikas_KM">
-            You should follow him on Twitter
+            Follow him on Twitter
           </a>
         </p>
       </div>
